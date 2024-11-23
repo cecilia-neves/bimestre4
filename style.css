@@ -164,7 +164,7 @@ ul li{
 }
 @media (max-width: 992px) {
     .navbar-collapse {
-        background-color: #fff; /* ou sua cor de fundo */
+        background-color: #fff;
         padding: 10px;
     }
     
