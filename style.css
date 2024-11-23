@@ -185,3 +185,6 @@ ul li{
 .carousel-inner {
     display: flex;
 }
+footer{
+bottom: 0;
+}
